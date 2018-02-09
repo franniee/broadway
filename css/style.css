@@ -6,11 +6,11 @@ body {
 
 h1,
 h2,
-nav {
-  color: white;
+h3 {
+  font-weight: bold;
 }
 
-h1 {
+.hero h1 {
   font-size: 70px;
   font-weight: bold;
 }
@@ -21,17 +21,13 @@ h1 {
   font-weight: bold;
 }
 
-.btn-nav2 {
-  font-size: 11px;
-  color: white;
-  font-weight: bold;
-}
 
-#hero {
+.hero {
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+color: white;
 }
 
-#footer {
+.footer {
   display: block;
   background-color: dimgray;
   color: white;
