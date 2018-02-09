@@ -15,8 +15,10 @@ h1 {
   font-weight: bold;
 }
 
-nav {
+.btn-nav {
   font-size: 18px;
+  color: white;
+  font-weight: bold;
 }
 
 #hero {
